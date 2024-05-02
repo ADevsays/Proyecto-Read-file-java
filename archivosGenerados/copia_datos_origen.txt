@@ -1,0 +1,7 @@
+Asegúrate de que tu terminal esté configurada para ejecutar comandos de Java. Si estás utilizando Eclipse Temurin
+Una vez que la terminal esté lista
+
+
+Nuevo contenido para recuperar
+
+Nueva linea de texto

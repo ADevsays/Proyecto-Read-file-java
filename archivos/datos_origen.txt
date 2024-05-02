@@ -1,0 +1,7 @@
+Asegúrate de que tu terminal esté configurada para ejecutar comandos de Java. Si estás utilizando Eclipse Temurin, es posible que necesites configurar las variables de entorno apropiadas para que el comando java esté disponible en tu terminal.
+Una vez que la terminal esté lista, navega hasta la ubicación donde guardaste tu archivo Java utilizando el comando cd (change directory).
+
+
+Nuevo contenido para recuperar
+
+Nueva linea de texto
